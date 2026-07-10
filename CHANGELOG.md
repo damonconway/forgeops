@@ -6,7 +6,7 @@ RELEASE=2026.3.0
 
 ### Helm chart for RCS
 
-A new Helm chart has been created for RCS Server. This allows users to sync
+A new Helm chart has been created for RCS Server (0.1.0). This allows users to sync
 data to/from a ForgeOps deployment. More information can be found in
 <./charts/rcs/README.md>.
 
